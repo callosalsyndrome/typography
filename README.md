@@ -27,6 +27,11 @@ printing-house/
 - requirements.txt
 - manage.py
 - docs/ # документация проекта
+  - adr/ #архитектурные решения
+  - architecture/ # контекстная диаграмма архитектуры
+  - bpmn/ # описание целевого и текущего процесса
+  - data/ # модель данных
+  - requirements/ # ФТ и НФТ
 - config/ # настройки Django
 - apps/
   - accounts/ # пользователи, авторизация
